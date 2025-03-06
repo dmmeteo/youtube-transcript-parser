@@ -9,4 +9,5 @@ dependencies = [
     "youtube-transcript-api",
     "python-dotenv",
     "tqdm",
+    "ruff>=0.9.9",
 ]
